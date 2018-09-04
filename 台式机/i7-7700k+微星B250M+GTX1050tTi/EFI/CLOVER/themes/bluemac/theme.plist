@@ -11,74 +11,28 @@
 		<key>Anime</key>
 		<array>
 			<dict>
+				<key>DistanceFromScreenEdgeX%</key>
+				<integer>43</integer>
+				<key>DistanceFromScreenEdgeY%</key>
+				<integer>20</integer>
 				<key>FrameTime</key>
-				<integer>100</integer>
+				<integer>25</integer>
 				<key>Frames</key>
-				<integer>50</integer>
+				<integer>150</integer>
 				<key>ID</key>
 				<integer>1</integer>
-				<key>Path</key>
-				<string>logo_3D</string>
-			</dict>
-			<dict>
-				<key>DistanceFromScreenEdgeX%</key>
-				<integer>64</integer>
-				<key>DistanceFromScreenEdgeY%</key>
-				<integer>44</integer>
-				<key>Frames</key>
-				<integer>1</integer>
-				<key>ID</key>
-				<integer>3</integer>
 				<key>NudgeX</key>
-				<integer>2</integer>
+				<integer>0</integer>
 				<key>NudgeY</key>
-				<integer>-5</integer>
+				<integer>0</integer>
+				<key>Once</key>
+				<false/>
 				<key>Path</key>
-				<string>func_help</string>
+				<string>Anim_1_Logo</string>
 				<key>ScreenEdgeX</key>
-				<string>right</string>
+				<string>left</string>
 				<key>ScreenEdgeY</key>
-				<string>top</string>
-			</dict>
-			<dict>
-				<key>DistanceFromScreenEdgeX%</key>
-				<integer>64</integer>
-				<key>DistanceFromScreenEdgeY%</key>
-				<integer>44</integer>
-				<key>Frames</key>
-				<integer>1</integer>
-				<key>ID</key>
-				<integer>4</integer>
-				<key>NudgeX</key>
-				<integer>2</integer>
-				<key>NudgeY</key>
-				<integer>-5</integer>
-				<key>Path</key>
-				<string>func_options_big</string>
-				<key>ScreenEdgeX</key>
-				<string>right</string>
-				<key>ScreenEdgeY</key>
-				<string>top</string>
-			</dict>
-			<dict>
-				<key>DistanceFromScreenEdgeX%</key>
-				<integer>64</integer>
-				<key>DistanceFromScreenEdgeY%</key>
-				<integer>44</integer>
-				<key>Frames</key>
-				<integer>1</integer>
-				<key>ID</key>
-				<integer>14</integer>
-				<key>NudgeX</key>
-				<integer>2</integer>
-				<key>NudgeY</key>
-				<integer>-5</integer>
-				<key>Path</key>
-				<string>14_Themes</string>
-				<key>ScreenEdgeX</key>
-				<string>right</string>
-				<key>ScreenEdgeY</key>
-				<string>top</string>
+				<string>bottom</string>
 			</dict>
 		</array>
 		<key>Background</key>
@@ -98,7 +52,7 @@
 			<true/>
 		</dict>
 		<key>Banner</key>
-		<string></string>
+		<string>apple logo.png</string>
 		<key>Font</key>
 		<dict>
 			<key>CharWidth</key>
